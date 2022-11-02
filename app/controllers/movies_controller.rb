@@ -17,4 +17,4 @@ class MoviesController < ApplicationController
   end
 
 end
-(byebug)
+# (byebug)
